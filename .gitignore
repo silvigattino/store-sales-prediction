@@ -1,0 +1,23 @@
+# Data (Kaggle data cannot be redistributed; files are large)
+data/
+*.csv
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
