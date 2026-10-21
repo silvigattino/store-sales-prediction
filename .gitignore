@@ -1,5 +1,6 @@
-# Data (Kaggle data cannot be redistributed; files are large)
-data/
+# Data: Kaggle data cannot be redistributed. Keep only the data/README.md note.
+data/*
+!data/README.md
 *.csv
 *.parquet
 
